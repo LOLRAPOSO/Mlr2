@@ -1,9 +1,7 @@
 CC     = gcc
 CFLAGS = -Wall -Wextra -pthread
 
-# O runner fornecido faz #include "sync_car.h". Como a struct agora fica
-# dentro de sync_car.c, geramos uma copia do runner apontando para sync_car.c
-# e compilamos tudo como uma unica unidade (o runner original nao e alterado).
+
 sync_car: sync_car.c sync_car-runner.c
 	sed 's/"sync_car.h"/"sync_car.c"/' sync_car-runner.c > runner_build.c
 	$(CC) $(CFLAGS) -o sync_car runner_build.c
