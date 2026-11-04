@@ -37,4 +37,7 @@ Looks good!
 [?2004l[?2004h]0;root@RAPOSO-PC: /mnt/c/Users/RENATA/Downloads/Mlr2/Mlr2root@RAPOSO-PC:/mnt/c/Users/RENATA/Downloads/Mlr2/Mlr2# [7m./teste_extra[27m[1P./teste_extr[K[K[K[K[K[K[K[K[K[K[K[Kgcc -Wall -Wextra -pthread -o teste_extra teste_extra.c ./teste_extra
 [?2004l[01m[Kgcc:[m[K [01;31m[Kfatal error: [m[Kinput file ‘[01m[Kteste_extra[m[K’ is the same as output file
 compilation terminated.
-[?2004h]0;root@RAPOSO-PC: /mn
+[?2004h]0;root@RAPOSO-PC: /mnt/c/Users/RENATA/Downloads/Mlr2/Mlr2root@RAPOSO-PC:/mnt/c/Users/RENATA/Downloads/Mlr2/Mlr2# [7mgcc -Wall -Wextra -pthread -o teste_extra teste_extra.c[27m[1Pgcc -Wall -Wextra -pthread -o teste_extra teste_extra.[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[7mgcc -Wall -Wextra -pthread -o teste_extra teste_extra.c[27mgcc -Wall -Wextra -pthread -o teste_extra teste_extra.c
+[?2004l[?2004h]0;root@RAPOSO-PC: /mnt/c/Users/RENATA/Downloads/Mlr2/Mlr2root@RAPOSO-PC:/mnt/c/Users/RENATA/Downloads/Mlr2/Mlr2# [7m./teste_extra[27m./teste_extra
+[?2004lExtras OK: todos retornaram imediatamente
+[?2004h]0;root@RAPOSO-PC: /mnt/c/Users/RENATA/Downloads/Mlr2/Mlr2root@RAPOSO-PC:/mnt/c/Users/RENATA/Downloads/Mlr
