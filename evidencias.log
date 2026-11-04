@@ -40,4 +40,7 @@ compilation terminated.
 [?2004h]0;root@RAPOSO-PC: /mnt/c/Users/RENATA/Downloads/Mlr2/Mlr2root@RAPOSO-PC:/mnt/c/Users/RENATA/Downloads/Mlr2/Mlr2# [7mgcc -Wall -Wextra -pthread -o teste_extra teste_extra.c[27m[1Pgcc -Wall -Wextra -pthread -o teste_extra teste_extra.[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[7mgcc -Wall -Wextra -pthread -o teste_extra teste_extra.c[27mgcc -Wall -Wextra -pthread -o teste_extra teste_extra.c
 [?2004l[?2004h]0;root@RAPOSO-PC: /mnt/c/Users/RENATA/Downloads/Mlr2/Mlr2root@RAPOSO-PC:/mnt/c/Users/RENATA/Downloads/Mlr2/Mlr2# [7m./teste_extra[27m./teste_extra
 [?2004lExtras OK: todos retornaram imediatamente
-[?2004h]0;root@RAPOSO-PC: /mnt/c/Users/RENATA/Downloads/Mlr2/Mlr2root@RAPOSO-PC:/mnt/c/Users/RENATA/Downloads/Mlr
+[?2004h]0;root@RAPOSO-PC: /mnt/c/Users/RENATA/Downloads/Mlr2/Mlr2root@RAPOSO-PC:/mnt/c/Users/RENATA/Downloads/Mlr2/Mlr2# exit
+[?2004lexit
+
+Script done on 2026-11-04 19:49:21-03:00 [COMMAND_EXIT_CODE="0"]
