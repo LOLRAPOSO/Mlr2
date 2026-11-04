@@ -13,8 +13,7 @@
 #include <time.h>
 #include <unistd.h>
 #include <pthread.h>
-
-#include "sync_car.h"
+#include "sync_car.c"
 
 volatile int threads_completed = 0;
 
