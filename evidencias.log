@@ -1,0 +1,5 @@
+Script started on 2026-11-04 16:37:49-03:00 [TERM="xterm-256color" TTY="/dev/pts/3" COLUMNS="155" LINES="12"]
+[?2004h]0;root@RAPOSO-PC: /mnt/c/Users/RENATA/Downloads/Mlr2/Mlr2root@RAPOSO-PC:/mnt/c/Users/RENATA/Downloads/Mlr2/Mlr2# make clear [K[Kn
+[?2004lmake: *** No rule to make target 'clean'.  Stop.
+[?2004h]0;root@RAPOSO-PC: /mnt/c/Users/RENATA/Downloads/Mlr2/Mlr2root@RAPOSO-PC:/mnt/c/Users/RENATA/Downloads/Mlr2/Mlr2# make
+[?2004lmake: *** No targets specified and no makefile found.  Sto
