@@ -1,4 +1,4 @@
-# Mlr2# Sincronização do Metrô
+# Sincronização do Metrô
 
 Implementação da atividade 4 de Infraestrutura de Software. O projeto simula a sincronização entre passageiros e carros de metrô por meio de threads, mutexes e variáveis de condição da biblioteca POSIX Threads (`pthread`).
 
